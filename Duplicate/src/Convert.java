@@ -9,5 +9,6 @@ public static void main(String[] args)
 		con=con+str[i];
 	}
 	System.out.println(con);
+	System.out.println(con);
 }
 }
